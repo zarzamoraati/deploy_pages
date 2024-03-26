@@ -1,4 +1,3 @@
-import React from 'react'
 import { MdMovie } from "react-icons/md";
 
 
